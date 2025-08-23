@@ -1,0 +1,21 @@
+.about {
+    padding: 80px 425px 101px 425px;
+    text-align: center;
+    &__subtitle {
+        font-weight: 400;
+        font-size: 24px;
+        color: #000;
+    }
+    &__text {
+        font-weight: 400;
+        font-size: 14px;
+        text-align: center;
+        color: #000;
+        &:first-of-type {
+            margin-top: 40px;
+        }
+    }
+    .dividerBlack {
+        margin-bottom: 40px;  
+    }
+}

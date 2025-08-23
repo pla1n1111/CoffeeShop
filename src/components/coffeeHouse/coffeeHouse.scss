@@ -1,0 +1,37 @@
+.main {
+    background: url(../../resources/img/main-bg.jpg) center (center/cover) no-repeat;
+    min-height: 640px;
+    padding-top: 30px;
+    padding-left: 150px;
+    padding-right: 150px;
+    text-align: center;
+    
+    &__title {
+        margin-top: 110px;
+        font-weight: 700;
+        font-size: 40px;
+        color: #fff;
+        text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+    }
+    &__subtitle {
+        font-weight: 700;
+        font-size: 24px;
+        color: #fff;
+        margin-top: 35px;
+        &_shadow {
+            margin-top: 20px;
+            text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+        }
+    }
+    &__btn {
+        border: 1px solid #fff;
+        border-radius: 3px;
+        width: 120px;
+        height: 30px;
+        font-weight: 700;
+        font-size: 14px;
+        color: #fff;
+        background-color: transparent;
+        margin-top: 18px;
+    }
+}

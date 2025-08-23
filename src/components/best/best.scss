@@ -1,0 +1,12 @@
+.best {
+    background: url(../../resources/img/bg-best.jpg) center (center/cover) no-repeat;
+    text-align: center;
+    padding-top: 80px;
+    padding-bottom: 110px;
+    &__cards {
+        display: flex;
+        justify-content: center;
+        gap: 71px;
+        margin-top: 39px;
+    }
+}

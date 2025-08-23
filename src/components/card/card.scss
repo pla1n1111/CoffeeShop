@@ -1,0 +1,48 @@
+.card {
+    padding: 37px 20px 21px 26px;
+    width: 220px;
+    border-radius: 8px;
+    min-height: 240px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    &__name {
+        margin-top: 14px;
+        font-weight: 400;
+        font-size: 14px;
+        text-align: center;
+        color: #000;
+        letter-spacing: -0.1px;
+    }
+    &__wrapper {
+        display: flex;
+        flex-direction: column;
+        justify-content: end;
+    }
+    &__img {
+        display: block;
+        min-height: 135px;
+        object-fit: contain;
+    }
+    &__price {
+        margin-top: 10px;
+        text-align: end ;
+        font-weight: 700;
+        font-size: 14px;
+        color: #000;
+    }
+    &__country {
+        margin-top: 14px;
+        font-weight: 400;
+        font-size: 14px;
+        text-align: right;
+        color: #000;
+    }
+    &_best {
+        background: rgba(255, 255, 255, 0.65);
+    }
+    &_base {
+        background: #fff; 
+        box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.25);
+    }
+}
