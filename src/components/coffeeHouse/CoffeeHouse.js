@@ -1,7 +1,7 @@
 import AppHeader from '../appHeader/AppHeader';
 import Divider from '../divider/Divider';
 
-import coffee from '../../resources/icons/coffee-beans-main.svg';
+import coffee from '../../resources/icons/coffee-beans-menu.svg';
 import './coffeeHouse.scss';
 
 const CoffeeHouse = () => {

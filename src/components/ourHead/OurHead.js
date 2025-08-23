@@ -1,6 +1,6 @@
 import AppHeader from '../appHeader/AppHeader';
 
-import coffee from '../../resources/icons/coffee-beans-main.svg';
+import coffee from '../../resources/icons/coffee-beans-menu.svg';
 import './ourHead.scss';
 
 const OurHead = () => {

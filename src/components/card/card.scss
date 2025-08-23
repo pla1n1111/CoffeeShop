@@ -2,10 +2,10 @@
     padding: 37px 20px 21px 26px;
     width: 220px;
     border-radius: 8px;
-    min-height: 240px;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
+    min-height: 240px;
     &__name {
         margin-top: 14px;
         font-weight: 400;
@@ -21,7 +21,7 @@
     }
     &__img {
         display: block;
-        min-height: 135px;
+        min-height: 155px;
         object-fit: contain;
     }
     &__price {

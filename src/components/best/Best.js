@@ -9,13 +9,16 @@ const Best = () => {
             <div className="best__cards">
                 <Card img={require('../../resources/img/solimo-beans.jpg')}
                     name="Solimo Coffee Beans 2 kg"
-                    price="10.73$"/>
+                    price="10.73$"
+                    isBest={true}/>
                 <Card img={require('../../resources/img/presto-beans.jpg')}
                     name="Presto Coffee Beans 1 kg"
-                    price="15.99$"/>
+                    price="15.99$"
+                    isBest={true}/>
                 <Card img={require('../../resources/img/aromistico-coffee.jpg')}
                     name="AROMISTICO Coffee 1 kg"
-                    price="6.99$"/>
+                    price="6.99$"
+                    isBest={true}/>
             </div>
         </div>
     )
