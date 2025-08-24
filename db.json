@@ -1,6 +1,8 @@
 {
   "menu": [
     {
+      "bigImg": "/img/about-aromistico.jpg",
+      "descr": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
       "img": "/img/aromistico-coffee.jpg",
       "name": "AROMISTICO Coffee 1 kg'",
       "country": "Brazil",
@@ -8,27 +10,35 @@
       "id": "2461"
     },
     {
+      "bigImg": "/img/aromistico-coffee.jpg",
+      "descr": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
       "img": "/img/aromistico-coffee.jpg",
       "name": "AROMISTICO Coffee 1 kg'",
-      "country": "Brazil",
+      "country": "Kenya",
       "price": "6.99$",
       "id": "2767"
     },
     {
+      "bigImg": "/img/about-aromistico.jpg",
+      "descr": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
       "img": "/img/aromistico-coffee.jpg",
       "name": "AROMISTICO Coffee 1 kg'",
-      "country": "Brazil",
+      "country": "Kenya",
       "price": "6.99$",
       "id": "1233"
     },
     {
+      "bigImg": "/img/about-aromistico.jpg",
+      "descr": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
       "img": "/img/presto-beans.jpg",
       "name": "AROMISTICO Coffee 1 kg'",
-      "country": "Brazil",
+      "country": "Columbia",
       "price": "6.99$",
       "id": "5213"
     },
     {
+      "bigImg": "/img/about-aromistico.jpg",
+      "descr": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
       "img": "/img/presto-beans.jpg",
       "name": "AROMISTICO Coffee 1 kg'",
       "country": "Brazil",
@@ -36,9 +46,11 @@
       "id": "4123"
     },
     {
+      "bigImg": "/img/about-aromistico.jpg",
+      "descr": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
       "img": "/img/solimo-beans.jpg",
       "name": "AROMISTICO Coffee 1 kg'",
-      "country": "Brazil",
+      "country": "Columbia",
       "price": "6.99$",
       "id": "b266"
     }

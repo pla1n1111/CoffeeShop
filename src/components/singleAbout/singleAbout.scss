@@ -1,0 +1,31 @@
+.single {
+    display: flex;
+    padding: 70px 290px 30px 280px;
+    gap: 55px;
+    &__img {
+        width: 392px;
+        height: 355px;
+        object-fit: cover;
+    }
+    &__subtitle {
+        font-weight: 400;
+        font-size: 24px;
+        color: #000;
+        text-align: center;
+    }
+    &__text {
+        font-weight: 400;
+        font-size: 14px;
+        color: #000;
+        &:first-of-type {
+            margin-top: 25px;
+        }
+    }
+    &__span {
+        font-weight: 700;
+    }
+    &__price {
+        font-weight: 400;
+        font-size: 24px;
+    }
+}

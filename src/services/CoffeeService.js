@@ -8,11 +8,19 @@ const useCoffeeService = () => {
         return res;
     }
 
+    const getOneCoffee = async (id) => {
+        console.log('res');
+        const res = await request(`http://localhost:3000/menu/${id}`);
+        console.log('res');
+        return res;
+    } 
+
     return {
         getAllCoffee,
         process,
         setProcess,
-        clearError
+        clearError,
+        getOneCoffee
     };
 }
 
