@@ -4,7 +4,6 @@ const Filters = () => {
     
     return (
         <>
-            <hr className='custom-hr'/>
             <div className="filters">
             <label className='filters__label'>Looking for 
                 <input className='filters__input'

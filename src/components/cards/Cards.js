@@ -8,10 +8,11 @@ const Cards = () => {
 
     const [coffeeList, setCoffeeList] = useState([]);
 
-    const {getAllCoffee, process, setProcess} = useCoffeeService();
+    const {getAllCoffee, setProcess} = useCoffeeService();
 
     useEffect(() => {
         onRequest();
+    // eslint-disable-next-line react-hooks/exhaustive-deps
     }, []);
 
     const onRequest = () => {
